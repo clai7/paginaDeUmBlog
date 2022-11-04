@@ -1,0 +1,23 @@
+.post-container {
+  background-color: #fffafa;
+  margin: 20px 170px 0px 170px;
+  width: 80%;
+}
+
+.date {
+  color: #008080;
+  font-family: Roboto, Arial;
+  margin: 25px;
+  margin-left: 40px;
+}
+
+h1 {
+  font-family: Montserrat, Arial, Helvetica;
+  margin: 25px;
+  margin-left: 40px;
+}
+
+.post-content {
+  font-family: Open Sans, Helvetica;
+  margin: 25px 70px 30px 40px;
+}
